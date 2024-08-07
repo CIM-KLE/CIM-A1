@@ -110,11 +110,11 @@ Image(filename = f"/kaggle/working/runs/detect/train2/confusion_matrix_normalize
 The results of the project are as follows:
 
 1. Confusion Matrix
-![Result 1](https://imgur.com/DAMbC6Q)
+![Result 1](https://imgur.png/DAMbC6Q)
 *This is the confusion matrix*
 
 
 
 2. Results of the predictions
-![Result 2](https://imgur.com/y1sWlkj)
+![Result 2](https://imgur.png/y1sWlkj)
 *This is the result of the predictions, ran on different set of images*
